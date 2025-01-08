@@ -1,4 +1,4 @@
-# Python-Roadmap
+
 # Python Basics Roadmap
 
 This repository provides a structured roadmap for learning Python basics. Follow the checklist below to track your progress as you learn!
